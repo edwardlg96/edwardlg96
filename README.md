@@ -1,7 +1,7 @@
 ### Hi there , my name is Edward Garcia.👋
 
 - 🔭 I’m currently working as a .NET FullStack Web Developer on Agilisa Technologies, an e-commerce software solutions company in the Dominican Republic.
-- 🌱 I’m currently learning React JS so i can excell as a front-end developer in the modern programming world.
+- 🌱 I’m currently learning React JS so i can excell as a Front-End developer in the modern programming world.
 <!--
 **edwardlg96/edwardlg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
